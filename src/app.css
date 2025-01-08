@@ -1,0 +1,33 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    h1 {
+        @apply font-extrabold text-6xl py-6;
+    }
+    h3 {
+        @apply font-bold text-2xl py-4;
+    }
+    p {
+        @apply text-lg;
+    }
+    .link {
+        @apply text-blue-500;
+    }
+    .headerlink{
+        @apply underline;
+    }
+    .sectionheader{
+        @apply font-bold text-3xl py-4;
+    }
+    .labelheader {
+        @apply font-bold;
+    }
+    .input-bordered{
+        @apply border-2 border-gray-300 rounded-lg;
+    }
+    *{
+        font-family: "Roboto Mono", monospace;
+    }
+}
