@@ -5,7 +5,9 @@
 
 	import { addMessages, init, getLocaleFromNavigator } from 'svelte-i18n';
 	import nl from '../locale/nl.json';
-
+	import en from '../locale/en.json';
+	
+	addMessages('en', en);
 	addMessages('nl', nl);
 
 	init({
@@ -16,7 +18,7 @@
 	let { children } = $props();
 </script>
 
-<!-- <Languagedropdown /> -->
+<Languagedropdown />
 
 <div class="container h-full mx-auto px-8 pb-8">
 	<Headerfinal />

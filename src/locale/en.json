@@ -1,0 +1,56 @@
+{
+	"Home_About_01": "And I am 17 years old, studying Software Development at Alfa-college.",
+	"Home_About_02": "I mainly focus on backend development but also work on front-end and game development in my free time. Here you can find my projects, career, and more information about my motivation. Feel free to reach out if you have any questions!",
+	"Home_Latest": "Latest projects",
+	"Home_Title": "Hi, I'm Jens!",
+
+	"About_Work": "You're probably wondering who I am? Well, I'm Jens, 17 years old, and I live in Holwierde. Currently, I am studying Software Development at Alfa-college at the Boumaboulevard campus. I genuinely enjoy all aspects of software development, but my biggest passion lies in backend development. However, that doesn't mean I limit myself to backend work only; in my free time, I also explore game development. <br> <br> From my portfolio, it's clear that UI design is not my strongest suit, although I do know how to work with frameworks like React and Vue. This portfolio, for example, is built with Svelte.",
+	"About_Sector": "I am drawn to responsibility because it involves ensuring a product works well, quickly, and securely. I enjoy logical thinking and creating technical solutions more than frontend design.",
+	"About_Work_Title": "My Story",
+	"About_Sector_Title": "Motivation",
+
+	"Contact_Page_Title": "Got a question? Get in touch!",
+	"Contact_Page_subtitle": "Here are my socials:",
+	"Contact_Page_place": "Location:",
+	"Contact_Page_name": "Name",
+	"Contact_Page_email": "Email",
+	"Contact_Page_message": "Message",
+	"Contact_Page_send": "Send",
+
+	"plus_about": "Responsible for replenishing various product groups to ensure a well-stocked and organized supermarket.",
+	"alfa_about": "MBO-4 course focused mainly on backend development but also covering frontend and game development. Includes modern techniques such as API integration, version control, and team-based project work.",
+	"woldendorp_about": "4-year VMBO-TL program completed with high marks.",
+
+	"MyWork_Description": "Experiences, etc., also includes my education, work experience, and CV.",
+	"Projects_Description": "Various projects I am working on or have worked on.",
+	"Contact_Description": "Questions or comments? Get in touch!",
+	"About_Description": "Who I am and my motivation for Software Development",
+
+	"Projects_Page_Title": "My Work",
+
+	"Work_title": "Why a digital CV?",
+	"Work_timeline": "Work timeline:",
+
+	"Work_lang": "Languages",
+	"Work_program_lang": "Programming Languages",
+	"Work_Tools": "Tools and Frameworks",
+
+	"NL": "Dutch",
+	"EN": "English",
+	"DE": "German",
+	
+
+	"Lang_perfect": "Fluent",
+	"Lang_reasonble": "Intermediate",
+
+	"Work_cv_why": "Since I partially do and have done frontend work, I decided to create a digital 'CV'. However, if you prefer a 'paper' CV, you can still download my 'analog' CV.",
+	"Work_cv_download": "Download my CV",
+
+	"MyWork": "Career",
+	"Projects": "Projects",
+	"Contact_Block": "Contact",
+	"About": "About me",
+	"CV": "My CV",
+
+	"All_filter": "All"
+}
