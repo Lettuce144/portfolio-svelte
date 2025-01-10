@@ -26,8 +26,6 @@
 		'Python',
 		'Lua'
 	];
-
-
 </script>
 
 <div class="border-2 border-dashed border-primary p-4">
@@ -146,8 +144,8 @@
 		</ul>
 	{/if}
 	<Experienceblock
-		title="Stage"
-		place="Bedrijf"
+		title="Vulploegmederwerker Plus Buist"
+		place="Spijk"
 		yearStart="2023-11"
 		yearEnd="2024-08"
 		experienceType="Work"
@@ -157,14 +155,15 @@
 	</Experienceblock>
 
 	<Experienceblock
-		title="Stage"
-		place="Bedrijf"
-		yearStart="2023-11"
-		yearEnd="2024-08"
+		title="Software Developer Alfa-College"
+		place="Groningen"
+		yearStart="2023-09"
+		yearEnd="2027-07"
 		experienceType="Education"
 	>
-		Als onderdeel van mijn opleiding heb ik stage gelopen bij een bedrijf. Hier heb ik onderzoek
-		gedaan naar de mogelijkheden van een nieuwe technologie en heb ik een proof-of-concept gemaakt.
+		>MBO-4 Studie gericht voornamelijk op backend development, maar ook met focus op frontend en
+		game development. Inclusief moderne technieken zoals API-integratie, versiebeheer, en
+		projectmatig werken binnen teams.
 	</Experienceblock>
 </div>
 
