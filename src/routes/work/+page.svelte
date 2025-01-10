@@ -143,28 +143,37 @@
 			</li>
 		</ul>
 	{/if}
-	<Experienceblock
-		title="Vulploegmederwerker Plus Buist"
-		place="Spijk"
-		yearStart="2023-11"
-		yearEnd="2024-08"
-		experienceType="Work"
-	>
-		Als onderdeel van mijn opleiding heb ik stage gelopen bij een bedrijf. Hier heb ik onderzoek
-		gedaan naar de mogelijkheden van een nieuwe technologie en heb ik een proof-of-concept gemaakt.
-	</Experienceblock>
+	<div class="flex flex-col gap-4">
+		<Experienceblock
+			title="Vulploegmederwerker Plus Buist"
+			place="Spijk"
+			yearStart="2023-11"
+			yearEnd="2024-08"
+			experienceType="Work"
+		>
+			{$_('plus_about')}
+		</Experienceblock>
 
-	<Experienceblock
-		title="Software Developer Alfa-College"
-		place="Groningen"
-		yearStart="2023-09"
-		yearEnd="2027-07"
-		experienceType="Education"
-	>
-		>MBO-4 Studie gericht voornamelijk op backend development, maar ook met focus op frontend en
-		game development. Inclusief moderne technieken zoals API-integratie, versiebeheer, en
-		projectmatig werken binnen teams.
-	</Experienceblock>
+		<Experienceblock
+			title="Software Developer Alfa-College"
+			place="Groningen"
+			yearStart="2023-09"
+			yearEnd="2027-07"
+			experienceType="Education"
+		>
+			{$_('alfa_about')}
+		</Experienceblock>
+
+		<Experienceblock
+			title="VMBO-TL Dollard College"
+			place="Woldendorp"
+			yearStart="2019-09"
+			yearEnd="2023-06"
+			experienceType="Education"
+		>
+			<p>{$_('woldendorp_about')}</p>
+		</Experienceblock>
+	</div>
 </div>
 
 <div class="mt-4 gap-4 flex flex-col md:flex-row justify-between">
